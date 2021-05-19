@@ -1,0 +1,139 @@
+{
+  "Produse": [
+    {
+      "denumire": "Bluză 'Befelize'",
+      "poza": "imagini/c7d8eb90cefa6b84db0842ba5d94b19a.webp",
+      "pret": 105,
+      "referinta": "Bluză 'Befelize'.html"
+    },
+    {
+      "denumire": "Bluză cu fermoar sport PUMA pe gri / alb",
+      "poza": "imagini/e4de23b2d509ead0fe0f80070b6890b6.jfif",
+      "pret": 354,
+      "referinta": "Bluză cu fermoar puma.html"
+    },
+    {
+      "denumire": "Bluză de molton 'Club'",
+      "poza": "imagini/34d6fc7f6a99595c3b7b3f9149227efb.jfif",
+      "pret": 227,
+      "referinta": "Bluză de molton 'Club'.html"
+    },
+    {
+      "denumire": "Cămașă 'SUNSET'",
+      "poza": "imagini/cc0f13c1060b9454b9209ee19e3c8d5a.webp",
+      "pret": 55,
+      "referinta": "Cămașă 'SUNSET'.html"
+    },
+    {
+      "denumire": "Jeans 'Royal'",
+      "poza": "imagini/82549078adf230d628056dbcb282d0a1.webp",
+      "pret": 87,
+      "referinta": "Jeans 'Royal'.html"
+    },
+    {
+      "denumire": "Palton de primăvară-toamnă",
+      "poza": "imagini/7f6162b804704f25899c0da8f8f87fc5.webp",
+      "pret": 159,
+      "referinta": "Palton de primăvară-toamnă.html"
+    },
+    {
+      "denumire": "Pantaloni eleganți",
+      "poza": "imagini/12708a3c091df4f8ecfd4d2adba4e4a8.webp",
+      "pret": 155,
+      "referinta": "Pantaloni eleganți.html"
+    },
+    {
+      "denumire": "Sneaker de alergat 'Ultraboost 20'",
+      "poza": "imagini/43526f4c498297b283a0008031ed2bd8.webp",
+      "pret": 105,
+      "referinta": "Sneaker de alergat 'Ultraboost 20'.html"
+    },
+    {
+      "denumire": "Tricou ADIDAS ORIGINALS",
+      "poza": "imagini/076461e1178649f27c97a618a5a448e6.webp",
+      "pret": 139,
+      "referinta": "Tricou ADIDAS ORIGINALS.html"
+    }
+  ],
+  "linkuri_poze": [
+    {
+      "link1": "imagini/c7d8eb90cefa6b84db0842ba5d94b19a.webp",
+      "link2": "imagini/6b6606d0403d284b6c3c4ffe00970f02.webp"
+    },
+    {
+      "link1": "imagini/e4de23b2d509ead0fe0f80070b6890b6.jfif",
+      "link2": "imagini/55a9e68545dcb7cb4e254f5d3ff5db08.webp"
+    },
+    {
+      "link1": "imagini/34d6fc7f6a99595c3b7b3f9149227efb.jfif",
+      "link2": "imagini/d94fb2a0d98672bd7ae54be3ebbaae88.webp"
+    },
+    {
+      "link1": "imagini/cc0f13c1060b9454b9209ee19e3c8d5a.webp",
+      "link2": "imagini/fbdc825e831cafe673fa69558c357a49.webp"
+    },
+    {
+      "link1": "imagini/82549078adf230d628056dbcb282d0a1.webp",
+      "link2": "imagini/bea84155b6707ca40d2dc27ed3084a09.webp"
+    },
+    {
+      "link1": "imagini/7f6162b804704f25899c0da8f8f87fc5.webp",
+      "link2": "imagini/1837cb75509adf844f6963205f5b8ad6.webp"
+    },
+    {
+      "link1": "imagini/12708a3c091df4f8ecfd4d2adba4e4a8.webp",
+      "link2": "imagini/e1a2682cbab92e3c9ffd407981964e83.webp"
+    },
+    {
+      "link1": "imagini/43526f4c498297b283a0008031ed2bd8.webp",
+      "link2": "imagini/bb44b6e943c4729a13e5b2342b52e1a6.webp"
+    },
+    {
+      "link1": "imagini/076461e1178649f27c97a618a5a448e6.webp",
+      "link2": "imagini/cbe163a1b2c3b9205855bb5000f42d5f.webp"
+    }
+  ],
+  "recenzii": [
+    {
+      "user": "guest",
+      "recenzie": "imi place",
+      "id": 1
+    },
+    {
+      "user": "linte_robert",
+      "recenzie": "e buna",
+      "id": 2
+    },
+    {
+      "user": "guest",
+      "recenzie": "foarte buna",
+      "poza": "file:///C:/Users/Asus%20ZenBook/Desktop/site_nou%20-%20Copy/tema2-tw-/imagini/c7d8eb90cefa6b84db0842ba5d94b19a.webp",
+      "id": 3
+    },
+    {
+      "user": "linte_robert",
+      "recenzie": "ok",
+      "poza": "file:///C:/Users/Asus%20ZenBook/Desktop/site_nou%20-%20Copy/tema2-tw-/imagini/e4de23b2d509ead0fe0f80070b6890b6.jfif",
+      "id": 4
+    },
+    {
+      "user": "guest",
+      "recenzie": "",
+      "poza": "file:///C:/Users/Asus%20ZenBook/Desktop/site_nou%20-%20Copy/tema2-tw-/imagini/e4de23b2d509ead0fe0f80070b6890b6.jfif",
+      "id": 5
+    },
+    {
+      "user": "guest",
+      "recenzie": "Imi place",
+      "poza": "file:///C:/Users/Asus%20ZenBook/Desktop/site_nou%20-%20Copy/tema2-tw-/imagini/c7d8eb90cefa6b84db0842ba5d94b19a.webp",
+      "id": 6
+    },
+    {
+      "user": "linte_robert",
+      "recenzie": "imi place",
+      "poza": "file:///C:/Users/Asus%20ZenBook/Desktop/site_nou%20-%20Copy/tema2-tw-/imagini/c7d8eb90cefa6b84db0842ba5d94b19a.webp",
+      "id": 7
+    }
+  ],
+  "cos_cumparaturi": []
+}

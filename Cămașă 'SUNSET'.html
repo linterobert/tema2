@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ro">
+    <head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css">
+		<title>Cămașă 'SUNSET'</title>
+    </head>
+    <body>
+		<div class = "bara_sus" >
+			<img src = "imagini/off-white-logo.svg" id = "logo" onclick="schimbare_stare()">
+			<nav class = "meniu" >
+				<ul class = "meniu_buton"><a href="Acasa.html">Acasa</a></ul>
+				<ul class = "meniu_buton"><a href="Despre noi.html">Despre noi</a></ul>
+				<ul class = "meniu_buton"><a href="Produse.html">Produse</a></ul>
+				<ul class = "meniu_buton"><a href="cos.html">Cos</a></ul>
+				<ul class = "meniu_buton"><a href="Contact.html">Contact</a></ul>
+			</nav>
+		</div>
+        <aside>
+			<nav class = "meniu_lateral" >
+				<div id="Conecteaza-te"><ul><h3> Conecteaza-te </h3> </ul></div>
+				<div id="Username"><ul> Username:<input id="username"> </ul></div>
+				<div id="Password"><ul> Password: <input id="password" type="password"> </ul></div>
+				<ul><button onclick="conectare()" onkeypress="conectare()" id="buton_conectare"><a>Conecteaza-te</a></button></ul>
+				<ul><a href="Autentificare.html" id="Autentifica-te">Autentifica-te</a></ul>
+			</nav>
+		</aside>
+        <div class='detalii_produs'>
+            <div><img src="imagini/cc0f13c1060b9454b9209ee19e3c8d5a.webp" alt='produs' id = "poza_produs"></div>
+            <div id = "produs_unic">
+                <h2><div id="nume">Bluză 'Befelize'</div></h2>
+                <div class = "caseta_pret">
+                    <div id="1"> Pret: 105 lei </div>
+                </div>
+                <div class="selecteaza_marime">Selecteaza marimea:
+                    <select id="marime">
+                        <option>...</option>
+                        <option>S</option>
+                        <option>M</option>
+                        <option>L</option>
+                        <option>XL</option>
+                    </select>
+                    <div id = "div_cantitate"> Cantitate:
+                        <input id = "cantitate" >  </div>
+                    <button onclick="adauga_in_cos()">Adauga in cos</button>
+            
+                </div>
+                <h3>Design & funcționalitate</h3>
+                <ul>
+                    <li>Decolteu rotund</li>
+                    <li>Tiv/muchie tighelită</li>
+                    <li>Fermoar</li>
+                    <li>Mâneci raglan</li>
+                    <li>Broderie label</li>
+                  </ul>
+                   <h3> Mărime și croială</h3>
+                <ul>
+                    <li>Lungimea mânecii: Mânecă sfert</li>
+                    <li>Lungimea: Lungime normală</li>
+                </ul>
+                   <h3>Material & îngrijire</h3>
+                <ul>
+                    <li>Material: 100% Bumbac</li>
+                    <li>Căptușeală glugă: 100% Bumbac</li>
+                    <li>Tip de material: Fleece</li>
+                </ul>
+
+            </div>
+        </div>
+        <button onclick="schimba_poza()" id= "schimba_poza" >Schimba poza</button>
+        <div id = "tabel_recenzii">
+            <h2>Scrie o recenzie: </h2>
+            <input id = "recenzie">
+            <button onclick="posteaza()">Posteaza</button>
+            <div> <h2>Recenzii:</h2> </div>
+        </div>
+		<footer>
+			<div class='footer'>
+				<ul>
+					<li><h3>Contact</h3></li>
+					<li>0800 890 133*</li>
+					<li>companie@gmail.com</li>
+				</ul>
+			</div>
+			<div class='footer'>
+				<p>*Apel gratuit din toate rețelele. Apelurile din străinătate pot fi taxate.</p>
+
+				<p>**Toate prețurile incl. TVA</p>
+			</div>
+		</footer>
+    </body>
+	<script src = "produs.js" ></script>
+</html>
